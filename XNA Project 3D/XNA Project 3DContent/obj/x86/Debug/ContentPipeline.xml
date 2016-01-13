@@ -1,0 +1,433 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Audio\Waves\engine_2.wav</Source>
+      <Name>Audio\Waves\engine_2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Audio\Waves\engine_2.xnb</Output>
+      <Time>2015-02-18T20:20:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\explosion2.wav</Source>
+      <Name>Audio\Waves\explosion2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Audio\Waves\explosion2.xnb</Output>
+      <Time>2015-02-18T20:20:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\explosion3.wav</Source>
+      <Name>Audio\Waves\explosion3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Audio\Waves\explosion3.xnb</Output>
+      <Time>2015-02-18T20:20:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\hyperspace_activate.wav</Source>
+      <Name>Audio\Waves\hyperspace_activate</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Audio\Waves\hyperspace_activate.xnb</Output>
+      <Time>2015-02-18T20:20:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\tx0_fire1.wav</Source>
+      <Name>Audio\Waves\tx0_fire1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Audio\Waves\tx0_fire1.xnb</Output>
+      <Time>2015-02-18T20:20:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\300_Violin_Orchestra-Jorge_Quintero.wav</Source>
+      <Name>Audio\300_Violin_Orchestra-Jorge_Quintero</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Audio\300_Violin_Orchestra-Jorge_Quintero.xnb</Output>
+      <Time>2015-02-18T23:25:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Lucida Console.spritefont</Source>
+      <Name>Fonts\Lucida Console</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Fonts\Lucida Console.xnb</Output>
+      <Time>2015-02-18T20:20:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Game Over.spritefont</Source>
+      <Name>Fonts\Game Over</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Fonts\Game Over.xnb</Output>
+      <Time>2015-03-02T23:09:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\pea_proj.x</Source>
+      <Name>Models\pea_proj</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\pea_proj.xnb</Output>
+      <Time>2015-02-18T20:20:18-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\pea_proj_0.xml</Key>
+        <Value>2016-01-12T22:55:04.4580262-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\textures\pea_proj_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Textures\asteroid1.tga</Source>
+      <Name>Textures\asteroid1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Textures\asteroid1.xnb</Output>
+      <Time>2015-02-18T20:20:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\B1_stars.tga</Source>
+      <Name>Textures\B1_stars</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Textures\B1_stars.xnb</Output>
+      <Time>2015-02-18T20:20:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\pea_proj.tga</Source>
+      <Name>Textures\pea_proj</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Textures\pea_proj.xnb</Output>
+      <Time>2015-02-18T20:20:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\wedge_p1_diff_v1.tga</Source>
+      <Name>Textures\wedge_p1_diff_v1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Textures\wedge_p1_diff_v1.xnb</Output>
+      <Time>2015-02-18T20:20:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Planet_Wight_1600.jpg</Source>
+      <Name>Models\Planet_Wight_1600</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\Planet_Wight_1600.xnb</Output>
+      <Time>2015-02-20T00:41:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Night Lights.jpg</Source>
+      <Name>Models\Night Lights</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\Night Lights.xnb</Output>
+      <Time>2015-02-20T14:02:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\JUPITERM.jpg</Source>
+      <Name>Models\JUPITERM</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\JUPITERM.xnb</Output>
+      <Time>2015-02-20T16:21:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\space.jpg</Source>
+      <Name>Textures\space</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Textures\space.xnb</Output>
+      <Time>2015-02-20T18:02:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\health.jpg</Source>
+      <Name>Textures\health</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Textures\health.xnb</Output>
+      <Time>2015-03-02T20:05:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\mana.png</Source>
+      <Name>Textures\mana</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Textures\mana.xnb</Output>
+      <Time>2015-03-02T20:58:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\MarsPlanet.fbx</Source>
+      <Name>Models\MarsPlanet</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\MarsPlanet.xnb</Output>
+      <Time>2015-02-20T00:36:54-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\MarsPlanet_0.xml</Key>
+        <Value>2016-01-12T22:55:14.2976177-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\Planet_Wight_1600_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Ship_FBX_Recommended.fbx</Source>
+      <Name>Models\Ship_FBX_Recommended</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\Ship_FBX_Recommended.xnb</Output>
+      <Time>2015-02-20T00:47:02-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Ship_FBX_Recommended_0.xml</Key>
+        <Value>2016-01-12T22:55:19.749569-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\NightEarth.fbx</Source>
+      <Name>Models\NightEarth</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\NightEarth.xnb</Output>
+      <Time>2015-02-20T14:01:32-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\NightEarth_0.xml</Key>
+        <Value>2016-01-12T22:55:20.2349132-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\Night Lights_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\21jupiter.fbx</Source>
+      <Name>Models\21jupiter</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\21jupiter.xnb</Output>
+      <Time>2015-02-20T16:20:24-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\21jupiter_0.xml</Key>
+        <Value>2016-01-12T22:55:46.3168767-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\JUPITERM_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\p1_wedge.fbx</Source>
+      <Name>Models\p1_wedge</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\p1_wedge.xnb</Output>
+      <Time>2015-02-20T17:41:28-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\p1_wedge_0.xml</Key>
+        <Value>2016-01-12T22:55:51.5275303-05:00</Value>
+      </Dependency>
+      <Request>C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\textures\wedge_p1_diff_v1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Astroid.FBX</Source>
+      <Name>Models\Astroid</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\Astroid.xnb</Output>
+      <Time>2015-02-20T18:34:34-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Astroid_0.xml</Key>
+        <Value>2016-01-12T22:55:53.3645148-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\pea_proj.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\pea_proj_0.xml</Output>
+      <Time>2015-02-18T20:20:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\pea_proj.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\textures\pea_proj_0.xnb</Output>
+      <Time>2015-02-18T20:20:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\MarsPlanet.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\MarsPlanet_0.xml</Output>
+      <Time>2015-02-20T00:36:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Planet_Wight_1600.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\Planet_Wight_1600_0.xnb</Output>
+      <Time>2015-02-20T00:41:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ship_FBX_Recommended.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Ship_FBX_Recommended_0.xml</Output>
+      <Time>2015-02-20T00:47:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NightEarth.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\NightEarth_0.xml</Output>
+      <Time>2015-02-20T14:01:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Night Lights.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\Night Lights_0.xnb</Output>
+      <Time>2015-02-20T14:02:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\21jupiter.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\21jupiter_0.xml</Output>
+      <Time>2015-02-20T16:20:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\JUPITERM.JPG</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\JUPITERM_0.xnb</Output>
+      <Time>2015-02-20T16:21:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\p1_wedge.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\p1_wedge_0.xml</Output>
+      <Time>2015-02-20T17:41:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\wedge_p1_diff_v1.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\textures\wedge_p1_diff_v1_0.xnb</Output>
+      <Time>2015-02-18T20:20:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Astroid.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Astroid_0.xml</Output>
+      <Time>2015-02-20T18:34:34-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3DContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3DContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-07-31T23:26:56.045512-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,108 @@
+H:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Audio\Waves\engine_2.xnb
+H:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Audio\Waves\explosion2.xnb
+H:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Audio\Waves\explosion3.xnb
+H:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Audio\Waves\hyperspace_activate.xnb
+H:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Audio\Waves\tx0_fire1.xnb
+H:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Fonts\Lucida Console.xnb
+H:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\pea_proj.xnb
+H:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Textures\B1_stars.xnb
+H:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Textures\pea_proj.xnb
+H:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Textures\wedge_p1_diff_v1.xnb
+H:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\textures\pea_proj_0.xnb
+H:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\XNA Project 3D.exe
+H:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\XNA Project 3D.pdb
+H:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\obj\x86\Debug\XNA Project 3D.csprojResolveAssemblyReference.cache
+H:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\obj\x86\Debug\XNA Project 3D.exe
+H:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\obj\x86\Debug\XNA Project 3D.pdb
+H:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Audio\300_Violin_Orchestra-Jorge_Quintero.xnb
+H:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\MarsPlanet.xnb
+H:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\Planet_Wight_1600.xnb
+H:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\Planet_Wight_1600_0.xnb
+H:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\Ship_FBX_Recommended.xnb
+H:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Textures\asteroid1.xnb
+H:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\NightEarth.xnb
+H:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\Night Lights.xnb
+H:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\Night Lights_0.xnb
+H:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\21jupiter.xnb
+H:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\JUPITERM.xnb
+H:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\JUPITERM_0.xnb
+H:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\p1_wedge.xnb
+H:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\textures\wedge_p1_diff_v1_0.xnb
+H:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Textures\space.xnb
+H:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\Astroid.xnb
+E:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Audio\Waves\engine_2.xnb
+E:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Audio\Waves\explosion2.xnb
+E:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Audio\Waves\explosion3.xnb
+E:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Audio\Waves\hyperspace_activate.xnb
+E:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Audio\Waves\tx0_fire1.xnb
+E:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Audio\300_Violin_Orchestra-Jorge_Quintero.xnb
+E:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Fonts\Lucida Console.xnb
+E:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\pea_proj.xnb
+E:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Textures\asteroid1.xnb
+E:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Textures\B1_stars.xnb
+E:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Textures\pea_proj.xnb
+E:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Textures\wedge_p1_diff_v1.xnb
+E:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\Planet_Wight_1600.xnb
+E:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\Night Lights.xnb
+E:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\JUPITERM.xnb
+E:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Textures\space.xnb
+E:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\MarsPlanet.xnb
+E:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\Ship_FBX_Recommended.xnb
+E:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\NightEarth.xnb
+E:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\21jupiter.xnb
+E:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\p1_wedge.xnb
+E:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\Astroid.xnb
+E:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\textures\pea_proj_0.xnb
+E:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\Planet_Wight_1600_0.xnb
+E:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\Night Lights_0.xnb
+E:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\JUPITERM_0.xnb
+E:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\textures\wedge_p1_diff_v1_0.xnb
+E:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\XNA Project 3D.exe
+E:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\XNA Project 3D.pdb
+E:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\obj\x86\Debug\XNA Project 3D.exe
+E:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\obj\x86\Debug\XNA Project 3D.pdb
+H:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Textures\health.xnb
+H:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Textures\mana.xnb
+H:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Fonts\Game Over.xnb
+E:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Fonts\Game Over.xnb
+E:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Textures\health.xnb
+E:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Textures\mana.xnb
+C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Audio\Waves\engine_2.xnb
+C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Audio\Waves\explosion2.xnb
+C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Audio\Waves\explosion3.xnb
+C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Audio\Waves\hyperspace_activate.xnb
+C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Audio\Waves\tx0_fire1.xnb
+C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Audio\300_Violin_Orchestra-Jorge_Quintero.xnb
+C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Fonts\Lucida Console.xnb
+C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Fonts\Game Over.xnb
+C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\pea_proj.xnb
+C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Textures\asteroid1.xnb
+C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Textures\B1_stars.xnb
+C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Textures\pea_proj.xnb
+C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Textures\wedge_p1_diff_v1.xnb
+C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\Planet_Wight_1600.xnb
+C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\Night Lights.xnb
+C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\JUPITERM.xnb
+C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Textures\space.xnb
+C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Textures\health.xnb
+C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Textures\mana.xnb
+C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\MarsPlanet.xnb
+C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\Ship_FBX_Recommended.xnb
+C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\NightEarth.xnb
+C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\21jupiter.xnb
+C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\p1_wedge.xnb
+C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\Astroid.xnb
+C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\textures\pea_proj_0.xnb
+C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\Planet_Wight_1600_0.xnb
+C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\Night Lights_0.xnb
+C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\Models\JUPITERM_0.xnb
+C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\Content\textures\wedge_p1_diff_v1_0.xnb
+C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\XNA Project 3D.exe
+C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\bin\x86\Debug\XNA Project 3D.pdb
+C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\obj\x86\Debug\XNA Project 3D.csprojResolveAssemblyReference.cache
+C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\obj\x86\Debug\XNA Project 3D.exe
+C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3D\obj\x86\Debug\XNA Project 3D.pdb

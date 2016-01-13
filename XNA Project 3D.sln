@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XNA Project 3D", "XNA Project 3D\XNA Project 3D\XNA Project 3D.csproj", "{03F9C958-615A-424C-B5FE-629917B4C255}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "XNA Project 3DContent", "XNA Project 3D\XNA Project 3DContent\XNA Project 3DContent.contentproj", "{7216FB2E-6AA4-4011-B33E-E2B5CE0B55FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03F9C958-615A-424C-B5FE-629917B4C255}.Debug|x86.ActiveCfg = Debug|x86
+		{03F9C958-615A-424C-B5FE-629917B4C255}.Debug|x86.Build.0 = Debug|x86
+		{03F9C958-615A-424C-B5FE-629917B4C255}.Release|x86.ActiveCfg = Release|x86
+		{03F9C958-615A-424C-B5FE-629917B4C255}.Release|x86.Build.0 = Release|x86
+		{7216FB2E-6AA4-4011-B33E-E2B5CE0B55FB}.Debug|x86.ActiveCfg = Debug|x86
+		{7216FB2E-6AA4-4011-B33E-E2B5CE0B55FB}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

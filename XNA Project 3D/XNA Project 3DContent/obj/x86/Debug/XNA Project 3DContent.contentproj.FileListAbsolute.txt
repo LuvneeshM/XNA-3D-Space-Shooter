@@ -1,0 +1,3 @@
+H:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3DContent\obj\x86\Debug\XNA Project 3DContent.contentprojResolveAssemblyReference.cache
+E:\Game Programming\XNA Project 3D\XNA Project 3D\XNA Project 3DContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mugra_000\Documents\GitHub\XNA 3D Space Shooter\XNA Project 3D\XNA Project 3DContent\obj\x86\Debug\XNA Project 3DContent.contentprojResolveAssemblyReference.cache
