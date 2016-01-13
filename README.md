@@ -1,5 +1,5 @@
 # XNA-3D-Space-Shooter
-Three dimensional asteroid shooter game made in C# using the Microsoft XNA Framework and Microsoft Visual Studio. To play the game, download the project and run the XNA Project 3D.exe - Shortcut.lnk. 
+Three dimensional asteroid shooter game made in C# using the Microsoft XNA Framework on Microsoft Visual Studio. To play the game, download the project and run the XNA Project 3D.exe - Shortcut.lnk. 
 
 ## Controls:
  - Escape key to exit game
